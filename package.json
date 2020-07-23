@@ -12,7 +12,7 @@
     "@fortawesome/fontawesome-free": "^5.7.1"
   },
   "dependencies": {
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.3.1",
     "jquery": "^3.3.1",
     "normalize.css": "^8.0.1"
   }
